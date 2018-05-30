@@ -7,7 +7,7 @@
             <h2>Students</h2> 
             <table border = "1"> 
                <tr bgcolor = "#9acd32"> 
-                  <th>Roll No</th> 
+                  <th>Roll-No</th> 
                   <th>First Name</th> 
                   <th>Last Name</th> 
                   <th>Nick Name</th> 
